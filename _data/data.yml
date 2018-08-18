@@ -167,6 +167,7 @@ skills:
 
       - name: Java
         level: 20%
+        
       - name: C++
         level: 30%
 footer: >
